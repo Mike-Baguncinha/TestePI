@@ -10,7 +10,7 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/guimaraes-rafael/">Rafael Alves dos Santos Guimarães</a>, <a href="https://www.linkedin.com/in/victorbarq/">Guilherme Melo</a>, <a href="https://www.linkedin.com/in/victorbarq/">Daniel Moribe</a>, <a href="https://www.linkedin.com/in/victorbarq/">Marcelo Gonçalves</a> 
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Quiroz</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Quiroz</a>, <a>Fabiano Onça</a>, <a>Adriano Felix Valente</a>
 
 ## Descrição
 
