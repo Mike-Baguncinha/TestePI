@@ -15,7 +15,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://images2.imgbox.com/84/7e/sU3EAOlf_o.png" alt="Muralha da Aldeia" border="0">
+<img src="https://images2.imgbox.com/74/c2/gvFw1hb9_o.png" alt="Muralha da Aldeia" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
